@@ -1,5 +1,7 @@
 University of Cabuyao -   Pamantasan ng Cabuyao Website 
 
+[Initial commit by solarpoweredkiddddoo.]
+
 A WebDev Performance Task Project by Group #1
 
 Languages used: HTML & CSS
