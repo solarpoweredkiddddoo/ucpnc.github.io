@@ -12,15 +12,15 @@ Languages used: HTML & CSS
 
 <h3> Website Preview: </h3>
 
- <h2> Home:h2>
+ <h2>Home:h2>
   
 ![image](https://github.com/solarpoweredkiddddoo/ucpnc.github.io/assets/161029100/bfad67a8-06d2-4971-983c-c2c01e9fbea6)
 
- <h2> Courses: </h2>
+ <h2>Courses:</h2>
  
 ![image](https://github.com/solarpoweredkiddddoo/ucpnc.github.io/assets/161029100/f3fc469e-1ed6-4869-a0a9-59946349133c)
 
- <h2> Gallery: </h2>
+ <h2> Gallery:</h2>
  
 ![image](https://github.com/solarpoweredkiddddoo/ucpnc.github.io/assets/161029100/071c2dd4-f950-451b-8bac-194bd624426f)
 
