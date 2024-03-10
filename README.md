@@ -14,7 +14,8 @@ Languages used: HTML & CSS
 
  <h2>Home:<h2>
   
-![image](https://github.com/solarpoweredkiddddoo/ucpnc.github.io/assets/161029100/bfad67a8-06d2-4971-983c-c2c01e9fbea6)
+![image](https://github.com/solarpoweredkiddddoo/ucpnc.github.io/assets/161029100/6dcdd918-552f-430a-9469-8d4705c6f21e)
+
 
  <h2>Courses:</h2> 
  
@@ -24,7 +25,7 @@ Languages used: HTML & CSS
  
 ![image](https://github.com/solarpoweredkiddddoo/ucpnc.github.io/assets/161029100/071c2dd4-f950-451b-8bac-194bd624426f)
 
-Contact Us <h2> </h2>
+ <h2>Contact Us</h2>
 
 ![image](https://github.com/solarpoweredkiddddoo/ucpnc.github.io/assets/161029100/4bc33ea4-7686-46c5-9104-75bb45b09995)
 
