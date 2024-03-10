@@ -4,6 +4,10 @@ A WebDev Performance Task Project by Group #1
 
 Languages used: HTML & CSS
 
+Github: https://github.com/solarpoweredkiddddoo/ucpnc.github.io.git
+
+Instructions: Download Zip or open in Github Desktop to edit HTML & CSS codes, happy coding!
+
 Home:
 ![image](https://github.com/solarpoweredkiddddoo/ucpnc.github.io/assets/161029100/bfad67a8-06d2-4971-983c-c2c01e9fbea6)
 
