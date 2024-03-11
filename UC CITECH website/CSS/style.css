@@ -15,6 +15,7 @@ a {
 /* NavBar */
 header nav {
   background: #fff;
+  border-bottom: 5px solid #004d00;
   box-shadow: 0px 0px 5px #4444;
 }
 
@@ -47,6 +48,7 @@ header nav ul.action-menu .nav-item .nav-link {
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
+  border-bottom: 5px solid #004d00;
 }
 
 .carousel-item::before {
@@ -111,6 +113,27 @@ header nav ul.action-menu .nav-item .nav-link {
   font-weight: 400;
   font-size: 34px;
   color: #004d00; /* Dark Nature Green */
+}
+
+body main section .container1 {
+  display: inline-block;
+  flex-direction: row;
+  margin-right: 100px;
+  margin-left: 230px;
+  padding: 20px;
+  width: 25%;
+  border-radius: 35px;
+  box-shadow: rgba(0, 0, 0, 0.17) 0px -23px 25px 0px inset, rgba(0, 0, 0, 0.15) 0px -36px 30px 0px inset, rgba(0, 0, 0, 0.1) 0px -79px 40px 0px inset, rgba(0, 0, 0, 0.06) 0px 2px 1px, rgba(0, 0, 0, 0.09) 0px 4px 2px, rgba(0, 0, 0, 0.09) 0px 8px 4px, rgba(0, 0, 0, 0.09) 0px 16px 8px, rgba(0, 0, 0, 0.09) 0px 32px 16px;
+}
+
+body main section .container2 {
+  display: inline-block;
+  flex-direction: row;
+  margin-left: 100px;
+  padding: 20px;
+  width: 25%;
+  border-radius: 35px;
+  box-shadow: rgba(0, 0, 0, 0.17) 0px -23px 25px 0px inset, rgba(0, 0, 0, 0.15) 0px -36px 30px 0px inset, rgba(0, 0, 0, 0.1) 0px -79px 40px 0px inset, rgba(0, 0, 0, 0.06) 0px 2px 1px, rgba(0, 0, 0, 0.09) 0px 4px 2px, rgba(0, 0, 0, 0.09) 0px 8px 4px, rgba(0, 0, 0, 0.09) 0px 16px 8px, rgba(0, 0, 0, 0.09) 0px 32px 16px;
 }
 
 .about .content h4 {
@@ -286,7 +309,6 @@ header nav ul.action-menu .nav-item .nav-link {
     opacity: 0;
   }
 }
-
 
 
 .course .box {
